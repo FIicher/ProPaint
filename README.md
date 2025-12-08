@@ -26,6 +26,19 @@ Après analyse complète de ton fichier `index.php`, voici toutes les fonctionna
 - Ligne en temps réel sans décalage
 - Système de calque
 - Système de transparence
+- Texte
+- Formes
+- Une palette de style de pinceau, de style de textes et de style de forme, et style pour les images.
+- Une palette d'effet de pinceau, d'effet de textes et d'effet de forme, et d'effet pour les images.
+- Une palette graient de pinceau, de gradient de textes et de gradient de forme, et gradient pour les images.
+- Système de textures
+- Système de priorité d'affichage (calques)
+- Edition, rotation, déplacement en temps réel de chaques element (dessin formes images ou texte)
+- Système de gradient poussé
+- Système d'edition d'image poussé
+- Système onglet: window pour selectionner une taille prédéfini
+- Système onglet: Edit pour Copier un élement selectionné, ouvrir la biblihotèque d'element séléctionné
+- Système de selection simplifié
 
 ### 🧽 **Gomme**
 - Gomme précise  
